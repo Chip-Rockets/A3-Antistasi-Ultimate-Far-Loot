@@ -343,7 +343,7 @@ class Params
         title = $STR_params_lootCrateDistance;
         values[] = {10, 25, 50, 75, 100, 500};
         texts[] = {"10", "25", "50", "75", "100", "500"};
-        default = 500;
+        default = 50;
     };
     class lootCratePrice
     {
